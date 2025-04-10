@@ -1,13 +1,28 @@
-black
-flake8
-ipython
-isort
-jupyterlab
-matplotlib
-notebook
-numpy
-pandas
-pip
-python-dotenv
-scikit-learn
--e .
+# Outils de développement et de formatage de code
+black==22.3.0               # Black : Formatage automatique du code
+flake8==4.0.1               # Flake8 : Linter pour vérifier la qualité du code Python
+isort==5.10.1               # isort : Organise automatiquement les imports dans le code
+ipython==7.34.0             # IPython : Interface interactive pour Python
+jupyterlab==3.4.3           # JupyterLab : Interface web pour notebooks Jupyter
+notebook==6.5.1             # Notebook : Permet d'exécuter des notebooks Jupyter
+python-dotenv==0.20.0       # python-dotenv : Chargement des variables d'environnement depuis un fichier .env
+
+# Bibliothèques de calcul et manipulation de données
+numpy==1.23.3               # Numpy : Bibliothèque de calcul scientifique
+pandas==1.5.3               # Pandas : Manipulation de données (par exemple, pour charger des jeux de données)
+scikit-learn==1.1.3         # Scikit-learn : Outils de machine learning pour les tâches classiques (classification, évaluation, etc.)
+
+# Bibliothèques pour la visualisation
+matplotlib==3.6.2           # Matplotlib : Création de graphiques et visualisations
+seaborn==0.11.2             # Seaborn : Visualisations avancées basées sur Matplotlib
+
+# Bibliothèques NLP pour la Reconnaissance d'Entités Nommées (NER)
+spacy==3.6.0                # SpaCy : Bibliothèque principale pour le NER avec des modèles pré-entraînés
+transformers==4.28.0        # Transformers : Modèles pré-entraînés de Hugging Face (BERT, RoBERTa, etc.)
+flair==0.11.3               # Flair : Modèles utilisant des embeddings contextuels
+
+# Si tu prévois d'entraîner ton propre modèle spaCy, ajouter cette bibliothèque
+spacy-transformers==1.2.0   # Intégration de transformers dans spaCy pour un meilleur NER
+
+# Pour le machine learning (si tu entraînes des modèles pour le NER)
+torch==1.13.1               # PyTorch : Framework pour l'apprentissage profond utilisé par Hugging Face et Flair
