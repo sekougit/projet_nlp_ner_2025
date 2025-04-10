@@ -1,0 +1,13 @@
+{
+    "project_name": "projet_nlp_ner_2025",
+    "author": "Sekou_safietou_baba",
+    "description": "Projet de reconnaissance d'entités nommées (NER) avec spaCy, Transformers et Flair.",
+    "python_version": "3.12",
+    "use_gpu": "yes",
+    "training_data": "data/raw/NER_dataset.csv",
+    "pretrained_model": "spacy",
+    "use_streamlit": "yes",
+    "data_format": "csv",
+    "include_visualization": "yes"
+  }
+  
