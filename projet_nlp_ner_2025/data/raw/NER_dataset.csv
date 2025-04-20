@@ -1785,7 +1785,7 @@ Sentence: 77,"""",``,O
 ,and,CC,O
 ,quarantine,VB,O
 ,together,RB,O
-,…,",",O
+, ,",",O
 ,just,RB,O
 ,to,TO,O
 ,make,VB,O
@@ -56461,7 +56461,7 @@ Sentence: 2556,To,TO,O
 ,to,TO,O
 ,over,IN,O
 ,300,CD,O
-,°C,NNS,O
+, C,NNS,O
 ,.,.,O
 Sentence: 2557,The,DT,O
 ,Russians,NNS,B-gpe
@@ -124882,7 +124882,7 @@ Sentence: 5700,The,DT,O
 ,chairman,NN,O
 ,of,IN,O
 ,Ghana,NNP,B-geo
-,’s,NNS,O
+, s,NNS,O
 ,independent,JJ,O
 ,electoral,JJ,O
 ,commission,NN,O
@@ -124902,7 +124902,7 @@ Sentence: 5700,The,DT,O
 ,winner,NN,O
 ,of,IN,O
 ,Sunday,NNP,B-tim
-,’s,POS,O
+, s,POS,O
 ,election,NN,O
 ,run-off,NN,O
 ,.,.,O
@@ -181957,7 +181957,7 @@ Sentence: 8331,The,DT,O
 ,two,CD,O
 ,resolutions,NNS,O
 Sentence: 8332,Thursday,NNP,B-tim
-,—,:,I-tim
+, ,:,I-tim
 ,one,CD,I-tim
 ,on,IN,O
 ,the,DT,O
@@ -197542,7 +197542,7 @@ Sentence: 9039,I,PRP,O
 ,a,DT,O
 ,believer,NN,O
 ,in,IN,O
-,séances,NNS,B-geo
+,s ances,NNS,B-geo
 ,",",",",O
 ,but,CC,O
 ,I,PRP,O
@@ -199964,10 +199964,10 @@ Sentence: 9159,Chinese,JJ,B-gpe
 ,words,NNS,O
 ,and,CC,O
 ,phrases,NNS,O
-,–,;,O
+, ,;,O
 ,especially,RB,O
 ,English,JJ,B-gpe
-,–,;,O
+, ,;,O
 ,in,IN,O
 ,Chinese,JJ,B-gpe
 ,newspapers,NNS,O
@@ -206626,7 +206626,7 @@ Sentence: 9464,World,NNP,O
 ,rally,NN,O
 ,driving,VBG,O
 ,champion,NN,O
-,Sébastien,NNP,B-per
+,S bastien,NNP,B-per
 ,Loeb,NNP,I-per
 ,of,IN,O
 ,France,NNP,B-geo
@@ -206662,7 +206662,7 @@ Sentence: 9465,The,DT,O
 ,champion,NN,O
 ,drove,VBD,O
 ,his,PRP$,O
-,Citroën,NNP,B-org
+,Citro n,NNP,B-org
 ,Xsara,NNP,I-org
 ,WRC,NNP,I-org
 ,to,TO,O
@@ -206693,7 +206693,7 @@ Sentence: 9467,Former,JJ,O
 ,world,NN,O
 ,champion,NN,O
 ,Marcus,NNP,B-per
-,Grönholm,NNP,I-per
+,Gr nholm,NNP,I-per
 ,of,IN,O
 ,Finland,NNP,B-geo
 ,is,VBZ,O
@@ -213964,8 +213964,8 @@ Sentence: 9804,Luis,NNP,B-per
 ,from,IN,O
 ,Daniel,NNP,B-per
 ,.,.,O
-Sentence: 9805,Frédéric,NNP,B-per
-,Kanouté,NNP,I-per
+Sentence: 9805,Fr d ric,NNP,B-per
+,Kanout ,NNP,I-per
 ,scored,VBD,O
 ,the,DT,O
 ,fourth,JJ,O
@@ -219474,8 +219474,8 @@ Sentence: 10052,In,IN,O
 ,transition,NN,O
 ,period,NN,O
 ,because,IN,O
-,…,",",O
-,”,``,O
+, ,",",O
+, ,``,O
 ,the,DT,O
 ,electoral,JJ,O
 ,dispute,NN,O
@@ -219485,9 +219485,9 @@ Sentence: 10052,In,IN,O
 ,",",",",O
 ,the,DT,O
 ,losers,NNS,O
-,…,",",O
+, ,",",O
 ,.,.,O
-,”,``,O
+, ,``,O
 Sentence: 10053,President,NNP,B-per
 ,Bush,NNP,I-per
 ,has,VBZ,O
@@ -276045,9 +276045,9 @@ Sentence: 12632,Niamey,NNP,B-geo
 ,"35,000",CD,O
 ,seat,NN,O
 ,Stade,NNP,B-art
-,Général,NNP,I-art
+,G n ral,NNP,I-art
 ,Seyni,NNP,I-art
-,Kountché,NNP,I-art
+,Kountch ,NNP,I-art
 ,was,VBD,O
 ,full,JJ,O
 ,long,RB,O
@@ -282287,7 +282287,7 @@ Sentence: 12927,The,DT,O
 ,a,DT,O
 ,U.S.,NNP,B-geo
 ,military,JJ,O
-,attaché,NN,O
+,attach ,NN,O
 ,",",",",O
 ,identified,VBN,O
 ,as,IN,O
@@ -311030,7 +311030,7 @@ Sentence: 14251,Andresen,NNP,B-per
 ,miss,VBP,O
 ,.,.,O
 Sentence: 14252,Michael,NNP,B-per
-,Rösch,NNP,I-per
+,R sch,NNP,I-per
 ,of,IN,O
 ,Germany,NNP,B-geo
 ,was,VBD,O
@@ -391837,7 +391837,7 @@ Sentence: 17913,The,DT,O
 ,the,DT,O
 ,village,NN,O
 ,of,IN,O
-,Higüey,NNP,B-geo
+,Hig ey,NNP,B-geo
 ,.,.,O
 Sentence: 17914,Officials,NNS,O
 ,say,VBP,O
@@ -394287,7 +394287,7 @@ Sentence: 18025,The,DT,O
 ,of,IN,O
 ,the,DT,O
 ,military,JJ,O
-,attachés,NNS,O
+,attach s,NNS,O
 ,at,IN,O
 ,the,DT,O
 ,U.S.,NNP,B-org
@@ -405960,7 +405960,7 @@ Sentence: 18550,The,DT,O
 ,.,.,O
 Sentence: 18551,In,IN,O
 ,a,DT,O
-,communiqué,NN,O
+,communiqu ,NN,O
 ,issued,VBN,O
 ,in,IN,O
 ,Banjul,NNP,B-geo
@@ -434106,7 +434106,7 @@ Sentence: 19818,He,PRP,O
 ,through,IN,O
 ,police,NN,O
 ,barricades,NNS,O
-,…,:,O
+, ,:,O
 ,but,CC,O
 ,so,RB,O
 ,far,RB,O
@@ -577451,7 +577451,7 @@ Sentence: 26396,Thousands,NNS,O
 ,of,IN,O
 ,the,DT,O
 ,country,NN,O
-,’s,POS,O
+, s,POS,O
 ,founding,JJ,O
 ,father,NN,O
 ,and,CC,O
@@ -577529,7 +577529,7 @@ Sentence: 26399,The,DT,O
 ,.,.,O
 Sentence: 26400,Dr.,NNP,B-per
 ,Obote,NNP,I-per
-,’s,VBZ,O
+, s,VBZ,O
 ,coffin,NN,O
 ,is,VBZ,O
 ,now,RB,O
@@ -630485,8 +630485,8 @@ Sentence: 28817,The,DT,O
 ,incoming,JJ,O
 ,Haitian,JJ,B-gpe
 ,President,NNP,B-per
-,René,NNP,I-per
-,Préval,NNP,I-per
+,Ren ,NNP,I-per
+,Pr val,NNP,I-per
 ,.,.,O
 Sentence: 28818,A,DT,O
 ,statement,NN,O
@@ -630570,7 +630570,7 @@ Sentence: 28821,The,DT,O
 ,2004,CD,B-tim
 ,.,.,O
 Sentence: 28822,Mr.,NNP,B-per
-,Préval,NNP,I-per
+,Pr val,NNP,I-per
 ,first,RB,O
 ,held,VBD,O
 ,the,DT,O
@@ -633971,11 +633971,11 @@ Sentence: 28978,One,CD,O
 ,New,NNP,B-geo
 ,York,NNP,I-geo
 ,.,.,O
-Sentence: 28979,‘,``,O
+Sentence: 28979, ,``,O
 ,Girls,NNP,O
 ,Write,NNP,O
 ,Now,NNP,O
-,’,``,O
+, ,``,O
 ,pairs,VBZ,O
 ,teenage,JJ,O
 ,girls,NNS,O
@@ -637872,7 +637872,7 @@ Sentence: 29164,In,IN,O
 ,VOA,NNP,B-per
 ,Senior,NNP,I-per
 ,Correspondent,NNP,I-per
-,André,NNP,I-per
+,Andr ,NNP,I-per
 ,de,NNP,I-per
 ,Nesnera,NNP,I-per
 ,",",",",O
@@ -637889,14 +637889,14 @@ Sentence: 29164,In,IN,O
 ,about,IN,O
 ,Bill,NNP,B-per
 ,Clinton,NNP,I-per
-,’s,POS,O
+, s,POS,O
 ,trip,NN,O
 ,and,CC,O
 ,the,DT,O
 ,issue,NN,O
 ,of,IN,O
 ,North,NNP,B-geo
-,Korea’s,NNP,I-geo
+,Korea s,NNP,I-geo
 ,nuclear,JJ,O
 ,ambitions,NNS,O
 ,.,.,O
@@ -642080,7 +642080,7 @@ Sentence: 29351,He,PRP,O
 ,Ali,NNP,B-per
 ,Belaroussi,NNP,I-per
 ,and,CC,O
-,attaché,NNP,B-per
+,attach ,NNP,B-per
 ,Azzedine,NNP,I-per
 ,Belkadi,NNP,I-per
 ,have,VBP,O
@@ -687673,7 +687673,7 @@ Sentence: 31423,The,DT,O
 ,medical,JJ,O
 ,aid,NN,O
 ,group,NN,O
-,–,;,O
+, ,;,O
 ,Doctors,NNPS,B-org
 ,Without,NNP,I-org
 ,Borders,NNPS,I-org
@@ -687703,7 +687703,7 @@ Sentence: 31424,Richard,NNP,B-per
 ,is,VBZ,O
 ,the,DT,O
 ,group,NN,O
-,’s,POS,O
+, s,POS,O
 ,head,NN,O
 ,of,IN,O
 ,mission,NN,O
@@ -687754,7 +687754,7 @@ Sentence: 31426,He,PRP,O
 ,Luanda,NNP,B-geo
 ,.,.,O
 Sentence: 31427,That,DT,O
-,’s,VBZ,O
+, s,VBZ,O
 ,down,RB,O
 ,from,IN,O
 ,over,IN,O
@@ -687772,7 +687772,7 @@ Sentence: 31428,However,RB,O
 ,Veerman,NNP,B-per
 ,says,VBZ,O
 ,it,PRP,O
-,’s,VBZ,O
+, s,VBZ,O
 ,still,RB,O
 ,too,RB,O
 ,early,JJ,O
@@ -736208,14 +736208,14 @@ Sentence: 33654,The,DT,O
 ,those,DT,O
 ,living,VBG,O
 ,with,IN,O
-,–,;,O
+, ,;,O
 ,and,CC,O
 ,dying,JJ,O
 ,in,IN,O
 ,large,JJ,O
 ,numbers,NNS,O
 ,from,IN,O
-,–,;,O
+, ,;,O
 ,HIV,NNP,O
 ,/,NNP,O
 ,AIDS,NNP,O
@@ -748588,9 +748588,9 @@ Sentence: 34218,At,IN,O
 ,Flu,NNP,I-nat
 ,could,MD,O
 ,become,VB,O
-,“,``,O
+, ,``,O
 ,entrenched,VBN,O
-,”,``,O
+, ,``,O
 ,in,IN,O
 ,the,DT,O
 ,Black,NNP,B-geo
@@ -748642,7 +748642,7 @@ Sentence: 34221,He,PRP,O
 ,were,VBD,O
 ,to,TO,O
 ,become,VB,O
-,“,``,O
+, ,``,O
 ,rooted,JJ,O
 ,in,IN,O
 ,the,DT,O
@@ -748665,7 +748665,7 @@ Sentence: 34221,He,PRP,O
 ,truly,RB,O
 ,catastrophic,JJ,O
 ,.,.,O
-,”,``,O
+, ,``,O
 Sentence: 34222,Palestinian,JJ,B-gpe
 ,officials,NNS,O
 ,say,VBP,O
@@ -767168,7 +767168,7 @@ Sentence: 35065,Mr.,NNP,B-per
 ,",",",",O
 ,a,DT,O
 ,former,JJ,O
-,protégé,NN,O
+,prot g ,NN,O
 ,of,IN,O
 ,Mr.,NNP,B-per
 ,Aristide,NNP,I-per
@@ -859746,7 +859746,7 @@ Sentence: 39287,There,EX,O
 ,attacks,NNS,O
 ,against,IN,O
 ,Rwanda,NNP,B-org
-,’s,NNS,I-org
+, s,NNS,I-org
 ,government,NN,O
 ,and,CC,O
 ,destabilize,VBP,O
@@ -859828,7 +859828,7 @@ Sentence: 39291,He,PRP,O
 ,number,NN,O
 ,of,IN,O
 ,possibilities,NNS,O
-,–,;,O
+, ,;,O
 ,including,VBG,O
 ,sending,VBG,O
 ,in,IN,O
@@ -948283,7 +948283,7 @@ Sentence: 43340,The,DT,O
 ,of,IN,O
 ,the,DT,O
 ,population,NN,O
-,–,;,O
+, ,;,O
 ,since,IN,O
 ,many,JJ,O
 ,violations,NNS,O
@@ -974224,7 +974224,7 @@ Sentence: 44544,The,DT,O
 ,southwestern,JJ,O
 ,city,NN,O
 ,of,IN,O
-,Göteborg,NNP,B-geo
+,G teborg,NNP,B-geo
 ,.,.,O
 Sentence: 44545,Prosecutors,NNS,O
 ,say,VBP,O
@@ -1031998,7 +1031998,7 @@ Sentence: 47183,Ariel,NNP,B-per
 ,daughter,NN,O
 ,",",",",O
 ,Esperanza,NNP,B-org
-,–,;,I-org
+, ,;,I-org
 ,Spanish,JJ,B-gpe
 ,for,IN,B-org
 ,Hope,NNP,I-org
@@ -1040690,7 +1040690,7 @@ Sentence: 47592,U.S.,NNP,B-geo
 ,a,DT,O
 ,powerful,JJ,O
 ,category,NN,O
-,5 storm,NN,O
+,5 storm,NN,O
 ,and,CC,O
 ,a,DT,O
 ,key,JJ,O
